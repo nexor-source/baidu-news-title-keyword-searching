@@ -1,0 +1,3 @@
+# baidu-news-title-keyword-searching
+爬取百度新闻至其2级页面超链接内容中包括你的关键字的数据到本地保存
+详细内容请看文件夹内的docx文档
