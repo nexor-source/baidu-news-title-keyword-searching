@@ -3,7 +3,6 @@ import json
 from queue import Queue
 from datetime import datetime
 
-from structures import *
 from utils import *
 
 
